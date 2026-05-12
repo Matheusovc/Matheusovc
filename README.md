@@ -47,9 +47,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheusovc&show_icons=true&theme=tokyonight&hide_border=true"/>
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusovc&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheusovc&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -65,11 +65,11 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/SEULINKEDIN">
+  <a href="https://www.linkedin.com/in/ovcmatheus">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:SEUEMAIL">
+  <a href="mailto:matheusovc16@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

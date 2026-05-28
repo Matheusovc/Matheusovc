@@ -12,23 +12,20 @@ Full Stack Developer • Automation Engineer • API Specialist
 
 # 👨🏻‍💻 About Me
 
+# 👨🏻‍💻 About Me
+
 ```javascript
 const matheus = {
   location: "Brasília, Brazil",
-
   languages: ["Java", "TypeScript", "JavaScript"],
-
   backend: ["Java", "Node.js", "REST APIs"],
-
   automation: ["n8n", "Workflows", "Integrations"],
-
   interests: [
     "Backend Development",
     "Automation",
     "API Integrations",
     "Scalable Systems"
   ],
-
   currentFocus: "Building scalable automation systems"
 };
 ```

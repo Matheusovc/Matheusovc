@@ -1,4 +1,4 @@
-`<h1 align="center">🚀 Matheus Oliveira</h1>
+<h1 align="center">🚀 Matheus Oliveira</h1>
 
 <h3 align="center">
 Full Stack Developer • Automation Engineer • API Specialist
@@ -26,7 +26,7 @@ const matheus = {
   ],
   currentFocus: "Building scalable automation systems"
 };
-````
+```
 
 * 🚀 Passionate about technology and automation
 * ⚙️ Strong experience with workflow automation using **n8n**

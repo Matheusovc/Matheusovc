@@ -10,8 +10,7 @@ Full Stack Developer • Automation Engineer • API Specialist
 
 ---
 
-# 👨🏻‍💻 About Me
-
+<h1 align="center">👨🏻‍💻 About Me</h1>
 <p align="center">
   Passionate about building scalable systems, automations, and modern backend solutions.
 </p>

@@ -1,3 +1,4 @@
+````md
 <h1 align="center">🚀 Matheus Oliveira</h1>
 
 <h3 align="center">
@@ -9,8 +10,6 @@ Full Stack Developer • Automation Engineer • API Specialist
 </p>
 
 ---
-
-# 👨🏻‍💻 About Me
 
 # 👨🏻‍💻 About Me
 
@@ -28,15 +27,15 @@ const matheus = {
   ],
   currentFocus: "Building scalable automation systems"
 };
-```
+````
 
-- 🚀 Passionate about technology and automation
-- ⚙️ Strong experience with workflow automation using **n8n**
-- 🔗 API integrations specialist
-- 💻 Focused on backend development
-- 🌎 English speaker
-- 📚 Always learning new technologies
-- 🎯 Building practical and scalable solutions
+* 🚀 Passionate about technology and automation
+* ⚙️ Strong experience with workflow automation using **n8n**
+* 🔗 API integrations specialist
+* 💻 Focused on backend development
+* 🌎 English speaker
+* 📚 Always learning new technologies
+* 🎯 Building practical and scalable solutions
 
 ---
 
@@ -73,11 +72,9 @@ const matheus = {
 # 📊 GitHub Stats
 
 <p align="center">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusovc&show_icons=true&theme=tokyonight&hide_border=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusovc&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -113,3 +110,4 @@ const matheus = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
 </p>
+```

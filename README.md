@@ -12,21 +12,46 @@ Full Stack Developer • Automation Engineer • API Specialist
 
 # 👨🏻‍💻 About Me
 
-```javascript
-const matheus = {
-  location: "Brasília, Brazil",
-  languages: ["Java", "TypeScript", "JavaScript"],
-  backend: ["Java", "Node.js", "REST APIs"],
-  automation: ["n8n", "Workflows", "Integrations"],
-  interests: [
-    "Backend Development",
-    "Automation",
-    "API Integrations",
-    "Scalable Systems"
-  ],
-  currentFocus: "Building scalable automation systems"
-};
+<p align="center">
+  Passionate about building scalable systems, automations, and modern backend solutions.
+</p>
+
+<p align="center">
+  🚀 Full Stack Developer <br>
+  ⚡ Automation & API Integration Specialist <br>
+  💻 Java • Node.js • TypeScript <br>
+  🌎 Based in Brasília, Brazil
+</p>
+
+---
+
+```yaml
+name: Matheus Oliveira
+
+focus:
+  - Backend Development
+  - Workflow Automation
+  - API Integrations
+  - Scalable Systems
+
+currently_learning:
+  - Advanced Java
+  - Cloud Architecture
+  - System Design
+
+technologies:
+  - Java
+  - TypeScript
+  - JavaScript
+  - Node.js
+  - MySQL
+  - PostgreSQL
+  - n8n
+
+philosophy:
+  "Code. Learn. Build. Repeat."
 ```
+
 
 * 🚀 Passionate about technology and automation
 * ⚙️ Strong experience with workflow automation using **n8n**
